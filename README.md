@@ -1,6 +1,6 @@
-# fv3-Blog.github.io
-## Blogについて
-これは個人ブログです\n
+# JS-Docs
+## JS-docsについて
+これはJsのDocsです(個人的なものですが)
 ## BlogEngineを使用しています
 独自のBlogEngineを使用しています
 noteみたいな感じを出しました
